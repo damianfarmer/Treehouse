@@ -11,6 +11,7 @@ This program does the following:
 - [ ] Change name of directory
 
 ~~Call Registrar~~
+
 ###Number of Students Cleared
 Department| Count
 --------------|------------
